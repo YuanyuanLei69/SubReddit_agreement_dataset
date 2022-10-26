@@ -1,6 +1,6 @@
 # Read Me
 
-These are two newly annotated datasets for the research of identifying (dis)agreement relations between (Quote, Response) comment pairs in social media platform.
+These are two newly annotated datasets for the research of identifying (dis)agreement relations between *(Quote, Response)* comment pairs in social media platform.
 
 **Paper:** Few-Shot (Dis)Agreement Identification in Online Discussions with Regularized and Augmented Meta-Learning<br/>
 **Accepted:** The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)<br/>
