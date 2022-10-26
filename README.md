@@ -10,7 +10,7 @@ These are two newly annotated datasets for the research of identifying (dis)agre
 <br/>
 
 **Task Description**<br/>
-In online discussion forums and social media platforms, people express different opinions towards a common topic, by posting their comments or replying to another user's previous comments. We call the comments replying to another comments as *Response* and the comments being replied as *Quote*. Researching the relation between *(Quote, Response)* pairs will enable many opinion mining applications. To be detailed, the task is identifying the relation between *(Quote, Response)* pair to be *Agreement*, *Disagreement*, or *Neutral*.
+In online discussion forums and social media platforms, people express different opinions towards a common topic, by posting their comments or replying to another user's previous comments. We call the comments replying to another comments as *Response* and the comments being replied as *Quote*. Researching the relation between *(Quote, Response)* pairs will enable many opinion mining applications. To be detailed, the task is identifying the relation between *(Quote, Response)* pair is *Agreement*, *Disagreement*, or *Neutral*.
 
 <br/>
 
