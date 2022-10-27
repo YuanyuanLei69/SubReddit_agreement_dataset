@@ -54,7 +54,7 @@ Every *(Quote, Response)* pairs are annotated with one of *Agreement*, *Disagree
 
 **Citation**<br/>
 ---
-
+If you use this dataset in your research, please refer to and cite:
 
 
 
