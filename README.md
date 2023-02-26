@@ -58,6 +58,7 @@ If you use this dataset in your research, please refer to and cite:
 
 Yuanyuan Lei and Ruihong Huang. 2022. Few-Shot (Dis)Agreement Identification in Online Discussions with Regularized and Augmented Meta-Learning. In Findings of the Association for Computational Linguistics: EMNLP 2022, pages 5581–5593, Abu Dhabi, United Arab Emirates. Association for Computational Linguistics.
 
+<br/>
 
 @inproceedings{lei-huang-2022-shot,
     title = "Few-Shot (Dis)Agreement Identification in Online Discussions with Regularized and Augmented Meta-Learning",
