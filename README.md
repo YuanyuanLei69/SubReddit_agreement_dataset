@@ -8,6 +8,7 @@ These are two newly annotated datasets for the research of identifying (dis)agre
 **Accepted:** The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)<br/>
 **Authors:** Yuanyuan Lei, Ruihong Huang<br/>
 **Affiliation:** Department of Computer Science and Engineering, Texas A&M University, College Station, Texas, USA<br/>
+**Paper Link:** https://aclanthology.org/2022.findings-emnlp.409/
 
 <br/>
 
@@ -60,6 +61,7 @@ Yuanyuan Lei and Ruihong Huang. 2022. Few-Shot (Dis)Agreement Identification in 
 
 <br/>
 
+```bibtex
 @inproceedings{lei-huang-2022-shot,
     title = "Few-Shot (Dis)Agreement Identification in Online Discussions with Regularized and Augmented Meta-Learning",
     author = "Lei, Yuanyuan  and
@@ -73,5 +75,5 @@ Yuanyuan Lei and Ruihong Huang. 2022. Few-Shot (Dis)Agreement Identification in 
     pages = "5581--5593",
     abstract = "Online discussions are abundant with opinions towards a common topic, and identifying (dis)agreement between a pair of comments enables many opinion mining applications. Realizing the increasing needs to analyze opinions for emergent new topics that however tend to lack annotations, we present the first meta-learning approach for few-shot (dis)agreement identification that can be quickly applied to analyze opinions for new topics with few labeled instances. Furthermore, we enhance the meta-learner{'}s domain generalization ability from two perspectives. The first is domain-invariant regularization, where we design a lexicon-based regularization loss to enable the meta-learner to learn domain-invariant cues. The second is domain-aware augmentation, where we propose domain-aware task augmentation for meta-training to learn domain-specific expressions. In addition to using an existing dataset, we also evaluate our approach on two very recent new topics, mask mandate and COVID vaccine, using our newly annotated datasets containing 1.5k and 1.4k SubReddits comment pairs respectively. Extensive experiments on three domains/topics demonstrate the effectiveness of our meta-learning approach.",
 }
-
+```
 
